@@ -1,3 +1,4 @@
+![CF](https://cdn.geekwire.com/wp-content/uploads/2014/04/Code-Fellows-logo-277x300.jpg)
 # Reading Notes
 At Code Fellows, we believe in starting with the right foundation. Our 100-level courses introduce coding beginners to the world of software development, from basic HTML and CSS to the many career paths available for developers.
 
