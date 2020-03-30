@@ -77,6 +77,99 @@ By the first day of class
 Punctuality, participation in discussions, completion of assignments, and demonstration of professional courtesy to others are required, in accordance with our Code of Conduct. Attendance will be taken at the beginning of every class. Students should always contact the instructors ahead of time if they are unable to attend all or part of published class / lab hours.
 
 ## Code 201 - Foundation of Software Development
+## Overview
+Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
+
+This course guides students toward developing a well-rounded foundation of skills necessary for modern web development. These skills include HTML, CSS, and JavaScript coding; utilizing Git workflow processes; project organization; designing with wireframing; and employing introductory Agile development methods.
+
+Daytime and Nights & Weekend tracks are each 160 hours total. Course hours include lecture, lab, and coworking.
+
+## Outcomes
+At the end of this course, you will:
+
+- Define the structure of a web page utilizing the semantic hierarchical structural conventions of HTML5.
+- Apply CSS and HTML to implement page layout styles including grid, fluid, and responsive techniques; and to style content with color, typography, and images.
+- Utilize Javascript to make web projects interactive, such that user input is stored and processed to create updated and personalized content when a user interacts with a page.
+- Write JavaScript that leverages the fundamentals of Computer Science, the Object-Oriented Programming paradigm, basic data types, data structures, and basic algorithms, so that the code is efficient, error-free, and matches commonly accepted standards and practices of syntax and style, as measured by the code’s functionality and ability to pass a code linter.
+- Utilize industry standard version control tools and workflows, including Git and GitHub, to write functional, properly styled code and to work efficiently and harmoniously in professional environments.
+- Be prepared for a [Code 301 Course](https://www.codefellows.org/courses/code-301/intermediate-software-development/ "Code Fellows 301").  
+## Prerequisites
+- Required: Familiarity with [basic algebra concepts](https://www.mathsisfun.com/algebra/index.html).
+- [Code 101: Explore Software Development](https://www.codefellows.org/courses/code-101/explore-software-development/): If you are completely new to coding, complete Code 101 to build your first website using HTML and CSS and to find out if a career in software development is right for you.
+- [Code 102: Intro to Software Development](https://www.codefellows.org/courses/code-102/intro-to-software-development/): Prepare for the Code 201 deep-dive with instructor-led labs introducing you to the professional tools of the trade, like git and the powerful VSCode text editor. Practice more with HTML & CSS, and learn basic JavaScript as you deploy themed websites with GitHub Pages.
+## Topics
+Concepts
+- HTML5 and CSS3
+- Object-Oriented Programming
+- Introductory Data Structures & Algorithms
+- Document Object Model (DOM) Manipulation & Traversal
+- Multiple Approaches to Page Layout
+- Using GitHub Repos and Sharing Code With Project Teams
+Languages
+- HTML
+    - Structure
+    - Text
+    - Links
+    - Images
+    - Tables
+    - HTML5
+    - Forms
+    - Process
+    - Design
+- CSS
+    - Color
+    - Text
+    - Boxes
+    - Lists
+    - Tables
+    - Forms
+    - Grid Layouts
+    - Fluid Layouts
+    - Animations and Transitions
+- JavaScript
+    - Loops
+    - Conditions
+    - Functions
+    - Objects (Including Properties and Methods)
+    - Object-Oriented Programming
+    - Object Extension with Prototypes
+    - Events, Event Listeners, and Event Handlers in Callback Functions
+    - DOM Manipulation and Traversal Using "Vanilla" JavaScript without jQuery
+    - Utilization of an external library such as ChartJS
+    - Local Storage and JSON
+    - The Basics of MVC  
+Environments and Tools
+- Unix and the Command Prompt
+- Git and GitHub
+- A Text Editor
+- Chrome Dev Tools
+## Career Transition Services
+Changing careers is about more than learning a new skill. In tandem with your software development education, you will receive powerful career-building strategic training so you can confidently start your job search as soon as (or even before!) you graduate.
+
+Our Career Transition Services provide training, mentoring, leadership, and introductions to industry partners to help you become a more well-rounded software developer and a leader in your field. These services, which start in Code 201 and continue after Code 401 graduation, involve a series of events, workshops, and assignments that help you think holistically about your new career and take actionable steps towards success. Learn More »
+
+## Material Requirements
+You are required to supply your own laptop that meets the below requirements. Chromebooks are not suitable for this course, since you can’t directly control installed software. Most students use Macs. You are responsible for the upkeep and maintenance of your computer throughout the course. The course pre-work will have specific instructions for configuring your computer to be ready for the first day of class.
+
+- 64-bit Operating System, like macOS or Windows 10.
+- Fully up to date, with the latest version of the operating system and all security updates installed.
+- At least 50GB of free space on the hard drive.
+- At least 8GB of RAM. 16GB RAM strongly preferred.
+- Free of viruses, and in general working order.
+By the first day of class, you will need:
+
+- The latest version of Google Chrome
+- The Visual Studio Code editor
+- A GitHub account
+- The Web Design with HTML & CSS, JavaScript & jQuery book set by Jon Duckett
+## Stacked Modules
+Concepts in each of our courses are taught using stacked modules, where a new concept is introduced in each class session, building upon what came before it. This is a challenging style that requires persistence, practice, and collaboration, but allows more concepts to be introduced over the length of the course. This method helps students learn and retain more information in a short period of time. Learn more about stacked modules »
+
+##  Homework Policy
+In order to pass the class, students must attain at least 90% of available points.
+
+## Professionalism
+Punctuality, participation in discussions, completion of assignments, and demonstration of professional courtesy to others are required. Attendance will be taken at the beginning of every class. Passing requires at least 90% attendance. Students should always contact the instructors ahead of time if they are unable to attend all or part of a class session.
 
 ## Code 301 - Intermidiate Software Development
 
