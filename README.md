@@ -44,36 +44,36 @@ Web Development
 - Use the same tools utilized by professionals across the tech industry, right on your own laptop.
 - Learn the benefits of version control with Git and GitHub.
 JavaScript Programming
-Variables & Storing Data
-Conditionals
-"For" Loops
-Everything you need to know for the 201 Entrance Test!
+- ariables & Storing Data
+- Conditionals
+- "For" Loops
+- Everything you need to know for the 201 Entrance Test!
 Collaboration
-Get help from an experienced instructor or teaching assistant.
-Open time during each class session to work on independent and paired challenges.
-Ask questions related to the code assignments, or programming in general.
-Prepare for the career change with guidied coaching on how to set up your resume.
-Multiple Track Options
-Daytime Immersive
+- Get help from an experienced instructor or teaching assistant.
+- Open time during each class session to work on independent and paired challenges.
+- Ask questions related to the code assignments, or programming in general.
+- Prepare for the career change with guidied coaching on how to set up your resume.
+## Multiple Track Options
+**Daytime Immersive**
 Ready to dive in full time? Work through the course in just one week. Get trained via live, in-person instruction from an experienced developer and trainer. Work through your hands-on assignments in collaboration with peers looking to switch into a career in software development.
 
-Nights & Weekends
+**Nights & Weekends**
 Not quite ready to quit your day job? The Nights & Weekends track may be part-time, but it’s still intensive! Come to campus weeknights for 2 weeks and on one Saturday for the exact same in-depth curriculum offered in the Daytime Immersive. Your instructor will be there for every class, providing live code demos, guiding you through lab assignments, to help you and your peers level up.
 
-Self-paced Online
+**Self-paced Online**
 Want to prepare for Code 201 at your own pace? Build your own schedule to complete the same curriculum in our self-paced online option. Access lecture videos from the Daytime Immersive, join a chat channel dedicated to you and your peers, and schedule screen-share sessions with an instructor to help you get unstuck. Take up to a month to work through the hands-on assignments, turning them in for grading through the exact same system the other tracks use.
 
-Material Requirements
+## Material Requirements
 You are required to supply your own laptop that meets the below requirements. Chromebooks are not suitable for this course, since you can’t directly control installed software. You are responsible for the upkeep and maintenance of your computer throughout the course. The course will include a class session dedicated to configuring your computer to be ready for professional-grade software development the first day of class.
 
-64-bit Operating System, like macOS or Windows 10.
-Fully up to date, with the latest version of the operating system and all security updates installed.
-At least 50GB of free space on the hard drive.
-At least 8GB of RAM. 16GB RAM strongly preferred.
-Free of viruses, and in general working order.
+- 64-bit Operating System, like macOS or Windows 10.
+- Fully up to date, with the latest version of the operating system and all security updates installed.
+- At least 50GB of free space on the hard drive.
+- At least 8GB of RAM. 16GB RAM strongly preferred.
+- Free of viruses, and in general working order.
 By the first day of class
-You will also need the Web Design with HTML & CSS, JavaScript & jQuery book set by Jon Duckett
-Professionalism
+- You will also need the [Web Design with HTML & CSS, JavaScript & jQuery book set by Jon Duckett](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1119038634/ref=mt_hardcover?_encoding=UTF8&me= "Web Design with HTML & CSS, JavaScript & jQuery book set by Jon Duckett")
+## Professionalism
 Punctuality, participation in discussions, completion of assignments, and demonstration of professional courtesy to others are required, in accordance with our Code of Conduct. Attendance will be taken at the beginning of every class. Students should always contact the instructors ahead of time if they are unable to attend all or part of published class / lab hours.
 
 ## Code 201 - Foundation of Software Development
