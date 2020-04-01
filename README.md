@@ -80,6 +80,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 ## Code 201 - Foundation of Software Development
 [Class 01](https://bryantdavis1986.github.io/reading-notes/class-01)
 [Class 02](https://bryantdavis1986.github.io/reading-notes/class-02)
+[Class 03](https://bryantdavis1986.github.io/reading-notes/class-03)
 
 ## Overview
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
