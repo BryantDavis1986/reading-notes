@@ -78,10 +78,25 @@ By the first day of class
 Punctuality, participation in discussions, completion of assignments, and demonstration of professional courtesy to others are required, in accordance with our Code of Conduct. Attendance will be taken at the beginning of every class. Students should always contact the instructors ahead of time if they are unable to attend all or part of published class / lab hours.
 
 ## Code 201 - Foundation of Software Development
-[Class 01](https://bryantdavis1986.github.io/reading-notes/class-01)
-[Class 02](https://bryantdavis1986.github.io/reading-notes/class-02)
-[Class 03](https://bryantdavis1986.github.io/reading-notes/class-03)
-[Class 04](https://bryantdavis1986.github.io/reading-notes/class-04)
+| Tables   	                                                            |      Are                                     	|
+|----------	|:-------------:	|
+| [Class 01](https://bryantdavis1986.github.io/reading-notes/class-01) 	|  Read: 01 - Introductory HTML and JavaScript	|
+| [Class 02](https://bryantdavis1986.github.io/reading-notes/class-02) 	|  Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions   	|
+| [Class 03](https://bryantdavis1986.github.io/reading-notes/class-03) 	|  Read: 03 - HTML Lists, CSS Boxes, JS Control Flow 	|
+| [Class 04](https://bryantdavis1986.github.io/reading-notes/class-04)  |  Read: 04 - HTML Links, CSS Layout, JS Functions             	|
+| [Class 04](https://bryantdavis1986.github.io/reading-notes/class-04)  |  Read: 05 - HTML Images; CSS Color & Text             	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+|          	|               	|
+
+
+
 
 ## Overview
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
