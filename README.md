@@ -87,7 +87,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 | [Class 04](https://bryantdavis1986.github.io/reading-notes/class-04)  |  Read: 05 - HTML Images; CSS Color & Text             	|
 |[Class 05](https://bryantdavis1986.github.io/reading-notes/class-05)          	|Read: 05 - HTML Images; CSS Color & Text               	|
 |[Class 06](https://bryantdavis1986.github.io/reading-notes/class-06)          	|Read: 06 - JS Object Literals; The DOM               	|
-|          	|               	|
+|[Class 07](https://bryantdavis1986.github.io/reading-notes/class-07)           	|Read: 07 - HTML Tables; JS Constructor Functions               	|
 |          	|               	|
 |          	|               	|
 |          	|               	|
