@@ -90,7 +90,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 |[Class 07](https://bryantdavis1986.github.io/reading-notes/class-07)           	|Read: 07 - HTML Tables; JS Constructor Functions               	|
 |          	|               	|
 |          	|               	|
-|          	|               	|
+|[Class 10](https://bryantdavis1986.github.io/reading-notes/class-07)   |Read: 10 - JS Debugging|
 |          	|               	|
 |          	|               	|
 |          	|               	|
