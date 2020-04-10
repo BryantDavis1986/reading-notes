@@ -89,7 +89,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 |[Class 06](https://bryantdavis1986.github.io/reading-notes/class-06)          	|Read: 06 - JS Object Literals; The DOM               	|
 |[Class 07](https://bryantdavis1986.github.io/reading-notes/class-07)           	|Read: 07 - HTML Tables; JS Constructor Functions               	|
 |[Class 08](https://bryantdavis1986.github.io/reading-notes/class-08)   |HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading)               	|
-|          	|               	|
+|[Class 09](https://bryantdavis1986.github.io/reading-notes/class-09)   |Read: 09 - Forms and Events               	|
 |[Class 10](https://bryantdavis1986.github.io/reading-notes/class-10)   |Read: 10 - JS Debugging|
 |          	|               	|
 |          	|               	|
