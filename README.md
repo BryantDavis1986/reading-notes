@@ -93,7 +93,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 |[Class 10](https://bryantdavis1986.github.io/reading-notes/class-10)   |Read: 10 - JS Debugging|
 |[Class 11](https://bryantdavis1986.github.io/reading-notes/class-11)   |Read: 11 - Assorted Topics               	|
 |          	|               	|
-|          	|               	|
+|[Class 13](https://bryantdavis1986.github.io/reading-notes/class-13)    |Read: 13 - Local Storage               	|
 
 
 
