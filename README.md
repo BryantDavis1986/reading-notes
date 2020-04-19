@@ -92,7 +92,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 |[Class 09](https://bryantdavis1986.github.io/reading-notes/class-09)   |Read: 09 - Forms and Events               	|
 |[Class 10](https://bryantdavis1986.github.io/reading-notes/class-10)   |Read: 10 - JS Debugging|
 |[Class 11](https://bryantdavis1986.github.io/reading-notes/class-11)   |Read: 11 - Assorted Topics               	|
-|          	|               	|
+|[Class 11](https://bryantdavis1986.github.io/reading-notes/class-11)  	|Read: 12 - Docs for the HTML <canvas> Element & Chart.js               	|
 |[Class 13](https://bryantdavis1986.github.io/reading-notes/class-13)    |Read: 13 - Local Storage               	|
 
 
