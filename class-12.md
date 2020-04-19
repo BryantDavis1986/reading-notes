@@ -1,5 +1,5 @@
 # Read: 12 - Docs for the HTML <canvas> Element & Chart.js
-## Read [this article(https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/){:target="_blank"} on the Chart.js API.
+## Read `[this article(https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/){:target="_blank"}` on the Chart.js API.
 * returned a 404 error
 ## Charts.js
 * charts.js is an open source library
