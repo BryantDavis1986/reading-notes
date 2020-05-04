@@ -193,5 +193,9 @@ In order to pass the class, students must attain at least 90% of available point
 Punctuality, participation in discussions, completion of assignments, and demonstration of professional courtesy to others are required. Attendance will be taken at the beginning of every class. Passing requires at least 90% attendance. Students should always contact the instructors ahead of time if they are unable to attend all or part of a class session.
 
 ## Code 301 - Intermidiate Software Development
+|Lesson|
+|----------	|:-------------:	|
+| [Class 01](https://bryantdavis1986.github.io/reading-notes/301/class-01) 	|
+
 
 ## Code 401 - Advanced Software Development
