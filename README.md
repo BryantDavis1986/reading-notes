@@ -194,7 +194,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 
 ## Code 301 - Intermidiate Software Development
 |Lesson|
-|----------	|:-------------:	|
+|----------	|:-------------:	|  
 | [Class 01](https://bryantdavis1986.github.io/reading-notes/301/class-01) 	|
 
 
