@@ -1,0 +1,4 @@
+# Read: 14b - What Google Learned About Teams
+* Google found that pych safety could be put into data for efficiency. The safer everyone felts working in their teams
+the more efficient they were. It was a difficult task since the individuals that became software engineers were not the type
+to talk about their feelings. After studying groups and reading academic papers on the topic of teams they found that how the group treats eachother is if they were successful or if they failed. Teams that were successful at one thing/project were also successful at everything else, while a team failed at one thing they failed at everything no matter the individual skill or IQ level. The better the individuals treated eachother and were able to communicate with eachother the more successful they were.
