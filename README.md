@@ -201,4 +201,5 @@ Punctuality, participation in discussions, completion of assignments, and demons
 | [Class 07](https://bryantdavis1986.github.io/reading-notes/301/class-07) 	|
 | [Class 08](https://bryantdavis1986.github.io/reading-notes/301/class-08) 	|
 | [Class 09](https://bryantdavis1986.github.io/reading-notes/301/class-09) 	|
+| [Class 10](https://bryantdavis1986.github.io/reading-notes/301/class-10) 	|
 ## Code 401 - Advanced Software Development
