@@ -1,0 +1,9 @@
+# Read: 15 - Diversity and Inclusion
+##  Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago
+* It’s no secret that there is a pronounced gender gap in technology fields. In 2014, 70% of the employees at the top tech companies in Silicon Valley, such as Google, Facebook, and Twitter, were male. In technical roles, this phenomenon is even more pronounced; for example, only 10% of the technical workforce at Twitter is female.
+* Programming is fast becoming the most lucrative skill you can have in the modern world. According to a recent study conducted by Glassdoor, 11 of the 25 best-paying jobs are technology related, with an average earning potential of between $106,000 and $130,000 a year.
+* Technology believes that one of the primary reasons can be traced back to the close relationship between computing and gaming in the 1980s. “A lot of early computers were used for game playing,” Ames says. “Those games tended to be more aimed more at boys and men, so it was easy for boys to get a leg up in that area through gaming.”
+* It’s no coincidence that the console touted to have saved the industry was called a “Game Boy.”
+* This led to what researcher Jane Margolis calls the “experience gap.” In a study she conducted in 1995, she found that among first-year computer-science students at Carnegie Mellon University, 40% of male respondents passed the advanced-placement computer-science exam, meaning they could skip the introductory-level programming class.
+* Even when women do have considerable experience with coding and mathematics, the male-dominated environment that has arisen becomes an obstacle to entry for many. Professor Linda Sax, a researcher at UCLA’s Graduate School of Education and Information Studies, recalls, “I was someone who grew up very confident in my math abilities, but it wasn’t until I went to college that I began to doubt myself.”
+* 
