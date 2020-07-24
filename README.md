@@ -220,6 +220,7 @@ Punctuality, participation in discussions, completion of assignments, and demons
 | [Class 10](https://bryantdavis1986.github.io/reading-notes/401/class-10) 	|
 | [Class 11](https://bryantdavis1986.github.io/reading-notes/401/class-11) 	|
 | [Class 13](https://bryantdavis1986.github.io/reading-notes/401/class-13) 	|
+| [Class 14](https://bryantdavis1986.github.io/reading-notes/401/class-134) 	|
 
 
 
