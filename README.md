@@ -221,6 +221,11 @@ Punctuality, participation in discussions, completion of assignments, and demons
 | [Class 11](https://bryantdavis1986.github.io/reading-notes/401/class-11) 	|
 | [Class 13](https://bryantdavis1986.github.io/reading-notes/401/class-13) 	|
 | [Class 14](https://bryantdavis1986.github.io/reading-notes/401/class-14) 	|
+| [Class 19](https://bryantdavis1986.github.io/reading-notes/401/class-19) 	|
+| [Class 20](https://bryantdavis1986.github.io/reading-notes/401/class-20) 	|
+| [Class 21](https://bryantdavis1986.github.io/reading-notes/401/class-21) 	|
+| [Class 22](https://bryantdavis1986.github.io/reading-notes/401/class-22) 	|
+| [Class 26](https://bryantdavis1986.github.io/reading-notes/401/class-26) 	|
 
 
 
