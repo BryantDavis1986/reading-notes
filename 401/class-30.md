@@ -67,7 +67,8 @@ public interface IAuthorizationService
 }
 ```
 * An authorization requirement is a collection of data parameters that a policy can use to evaluate the current user principal. In our "AtLeast21" policy, the requirement is a single parameter—the minimum age. A requirement implements IAuthorizationRequirement, which is an empty marker interface. A parameterized minimum age requirement could be implemented as follows:  
-`using Microsoft.AspNetCore.Authorization;
+```
+using Microsoft.AspNetCore.Authorization;
 
 public class MinimumAgeRequirement : IAuthorizationRequirement
 {
@@ -77,7 +78,8 @@ public class MinimumAgeRequirement : IAuthorizationRequirement
     {
         MinimumAge = minimumAge;
     }
-}`
+}
+```
 * Note that the Handle method in the handler example returns no value. How is a status of either success or failure indicated?
 
 A handler indicates success by calling context.Succeed(IAuthorizationRequirement requirement), passing the requirement that has been successfully validated.
