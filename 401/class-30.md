@@ -2,7 +2,8 @@
 ## Policy-based authorization in ASP.NET Core
 * Underneath the covers, role-based authorization and claims-based authorization use a requirement, a requirement handler, and a pre-configured policy. These building blocks support the expression of authorization evaluations in code. The result is a richer, reusable, testable authorization structure.
 * An authorization policy consists of one or more requirements. It's registered as part of the authorization service configuration, in the Startup.ConfigureServices method:
-  `public void ConfigureServices(IServiceCollection services)
+```
+  public void ConfigureServices(IServiceCollection services)
 {
     services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
@@ -11,9 +12,11 @@
         options.AddPolicy("AtLeast21", policy =>
             policy.Requirements.Add(new MinimumAgeRequirement(21)));
     });
-}`
+}
+```
 * The primary service that determines if authorization is successful is IAuthorizationService:
-  `/// <summary>
+ ```
+ /// <summary>
 /// Checks policy based permissions for a user
 /// </summary>
 public interface IAuthorizationService
@@ -35,10 +38,9 @@ public interface IAuthorizationService
     /// <remarks>
     /// Resource is an optional parameter and may be null. Please ensure that you check 
     /// it is not null before acting upon it.
-    /// </remarks>
-    Task<AuthorizationResult> AuthorizeAsync(ClaimsPrincipal user, object resource, 
+    /// </remarks>`
+    `Task<AuthorizationResult> AuthorizeAsync(ClaimsPrincipal user, object resource, 
                                      IEnumerable<IAuthorizationRequirement> requirements);
-
     /// <summary>
     /// Checks if a user meets a specific authorization policy
     /// </summary>
@@ -62,9 +64,10 @@ public interface IAuthorizationService
     /// </remarks>
     Task<AuthorizationResult> AuthorizeAsync(
                                 ClaimsPrincipal user, object resource, string policyName);
-}`
-* An authorization requirement is a collection of data parameters that a policy can use to evaluate the current user principal. In our "AtLeast21" policy, the requirement is a single parameter—the minimum age. A requirement implements IAuthorizationRequirement, which is an empty marker interface. A parameterized minimum age requirement could be implemented as follows:
-  `using Microsoft.AspNetCore.Authorization;
+}
+```
+* An authorization requirement is a collection of data parameters that a policy can use to evaluate the current user principal. In our "AtLeast21" policy, the requirement is a single parameter—the minimum age. A requirement implements IAuthorizationRequirement, which is an empty marker interface. A parameterized minimum age requirement could be implemented as follows:  
+`using Microsoft.AspNetCore.Authorization;
 
 public class MinimumAgeRequirement : IAuthorizationRequirement
 {
