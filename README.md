@@ -231,6 +231,8 @@ Punctuality, participation in discussions, completion of assignments, and demons
 | [Class 32](https://bryantdavis1986.github.io/reading-notes/401/class-32) 	|
 | [Class 34](https://bryantdavis1986.github.io/reading-notes/401/class-33) 	|
 
+## Code 401: Advanced Javascript Development
+
 
 
 
